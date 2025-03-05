@@ -129,6 +129,10 @@ body {
     --tag-radius: 10px
 }
 
+table {
+    width: 100%;
+}
+
 /* ### SNIPPET LIBRARY */
 
 body {
