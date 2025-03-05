@@ -1,0 +1,16 @@
+{
+    "emeraldwalk.runonsave": {
+        "commands": [
+            {
+              // Run whenever any file is saved
+              "match": ".*",
+              "cmd": "echo '${fileBasename}' saved."
+            },
+            {
+                // Run whenever any file is saved
+                "match": ".*",
+                "cmd": "bkd build"
+              }
+          ]
+    }
+}
