@@ -37,8 +37,6 @@
     --primary-alt-colour-l: calc(var(--primary-colour-l) - 8%);
     --primary-alt-colour: hsl(var(--primary-colour-h), var(--primary-colour-s), var(--primary-alt-colour-l));
 
-    --text-colour: hsl(47, 38%, 77%);
-
     --text-colour: rgb(53, 49, 63);
     --text-colour-inverted: #F6F0E2;
 }
