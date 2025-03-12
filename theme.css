@@ -126,7 +126,10 @@ body {
     --table-row-last-border-width: 3px;
 
     /* # Tag edge smoothnes*/
-    --tag-radius: 10px
+    --tag-radius: 10px;
+
+    /* # reduce heading spacing*/
+    --heading-spacing: 20px;
 }
 
 table {
