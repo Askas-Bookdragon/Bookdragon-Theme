@@ -145,13 +145,13 @@ body {
 
     /*# extended color palette */
     --bookdragon-red-h: 0;
-    --bookdragon-red-s: 70%;
-    --bookdragon-red-l: 60%;
+    --bookdragon-red-s: 100%;
+    --bookdragon-red-l: 73%;
     --bookdragon-red: hsl(var(--bookdragon-red-h), var(--bookdragon-red-s), var(--bookdragon-red-l));
 
     --bookdragon-blue-h: 235;
-    --bookdragon-blue-s: 50%;
-    --bookdragon-blue-l: 55%;
+    --bookdragon-blue-s: 80%;
+    --bookdragon-blue-l: 73%;
     --bookdragon-blue: hsl(var(--bookdragon-blue-h), var(--bookdragon-blue-s), var(--bookdragon-blue-l));
 
     --bookdragon-green-h: 120;
